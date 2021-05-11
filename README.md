@@ -5,6 +5,8 @@
 npm install
 ```
 
+### Create `.env.local` on root folder. Check `.env.example` for reference
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -18,6 +20,11 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Unit Test
+```
+npm run test:unit
 ```
 
 ### Customize configuration
